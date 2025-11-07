@@ -27,10 +27,9 @@ So, with a handy-dandy little icon in the corner like this:
 <img width="477" height="266" alt="image" src="https://github.com/user-attachments/assets/83dc074b-5bc9-46f0-bf09-3bb28a93b804" />
 
 
-Instead of clicking "Comfy -> Settings -> LiteGraph -> <scroll down> -> <select a mode>" you just click the icon and switch it. 
+Instead of clicking "Comfy > Settings > LiteGraph" then scrolling down, finding the dropdown box, and selecting a mode,  you just click the icon and switch it. 
 
 I dunno, maybe it's just me. Clearly, there wasn't *much* demand for it before I wrote this, but I'm getting use out of it, and I hope you do, too.
-
 
 
 ---

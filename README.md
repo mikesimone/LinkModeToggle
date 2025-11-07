@@ -18,11 +18,20 @@ Designed for the modern ComfyUI frontend (v1.31+), but falls back gracefully on 
 
 Complex graphs look like spaghetti when every link’s a spline. Straight/linear links reduce visual noise and help you route with intent. Toggling on demand beats digging through menus.
 
-**Straight** <img width="1975" height="1495" alt="image" src="https://github.com/user-attachments/assets/b8ca23cb-1d12-4b15-842b-f56220180e7d" />
+### Straight 
 
-**Linear** <img width="1947" height="1465" alt="image" src="https://github.com/user-attachments/assets/6a27e1f0-9dcd-44a1-a65a-16e84fb27410" />
+<img width="1210" height="1200" alt="image" src="https://github.com/user-attachments/assets/e5a66ec1-7128-4da0-89fb-7f08d6192c44" />
 
-**Spline** <img width="2067" height="1698" alt="image" src="https://github.com/user-attachments/assets/60866c73-fdf3-401e-b26a-6aa56712d1fb" />
+
+### Linear 
+
+<img width="1612" height="1329" alt="image" src="https://github.com/user-attachments/assets/3c532442-e9a4-4c77-9ccd-47e64a4438e3" />
+
+
+### Spline 
+
+<img width="1567" height="1352" alt="image" src="https://github.com/user-attachments/assets/616dcc6e-31e7-4fd2-8cb3-ee0bb2e25395" />
+
 
 As you can tell, there's pros and cons to the different types of render when it comes to figuring out where an input or an output is connected, and, as of now, only clicking on an INPUT will highlight the entire path; clicking an output does nothing. *That's not frustrating at all.*
 

@@ -121,3 +121,6 @@ Remove `custom_nodes/LinkModeToggle` and restart ComfyUI.
 ## License
 
 MIT © Mike Simone
+
+Minor doc tweak 2025-11-08T17:26:17
+
